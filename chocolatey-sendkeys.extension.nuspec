@@ -11,6 +11,7 @@
     <title>Chocolatey Send-Keys extension (helper to send keystrokes to a window)</title>
     <authors>foundata</authors>
     <projectUrl>https://github.com/foundata/chocolatey-sendkeys.extension/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/foundata/chocolatey-sendkeys.extension/main/assets/images/keyboard-outline.svg</iconUrl>
     <copyright>
       Copyright (c) 2023 foundata GmbH (https://github.com/foundata/chocolatey-sendkeys.extension)
     </copyright>
