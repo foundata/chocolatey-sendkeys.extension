@@ -3,12 +3,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
-    <id>chocolatey-sendkeys.extension</id>
+    <id>sendkeys.extension</id>
     <version>1.0.0</version>
     <packageSourceUrl>https://github.com/foundata/chocolatey-sendkeys.extension/</packageSourceUrl>
     <owners>foundata</owners>
     <!-- == SOFTWARE SPECIFIC SECTION == -->
-    <title>Chocolatey Send-Keys extension (helper to send keystrokes to a window)</title>
+    <title>Send-Keys extension (helper to send keystrokes to a window)</title>
     <authors>foundata</authors>
     <projectUrl>https://github.com/foundata/chocolatey-sendkeys.extension/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/foundata/chocolatey-sendkeys.extension/main/assets/images/keyboard-outline.svg</iconUrl>
@@ -20,15 +20,15 @@
     <projectSourceUrl>https://github.com/foundata/chocolatey-sendkeys.extension/</projectSourceUrl>
     <docsUrl>https://github.com/foundata/chocolatey-sendkeys.extension/blob/main/README.md</docsUrl>
     <bugTrackerUrl>https://github.com/foundata/chocolatey-sendkeys.extension/issues</bugTrackerUrl>
-    <tags>chocolatey-sendkeys.extension send-keys window keystrokes non-silent user32.dll</tags>
+    <tags>sendkeys.extension send-keys window keystrokes non-silent user32.dll</tags>
     <summary>
       Helper functions to send keystrokes to a window.
     </summary>
     <description><![CDATA[
-A [Chocolatey extension](https://docs.chocolatey.org/en-us/features/extensions) providing helper functions to send keystrokes to the active application window. These functions may be used in Chocolatey install and uninstall scripts by declaring this package a dependency in your package's `.nuspec`.
+An unofficial [Chocolatey extension](https://docs.chocolatey.org/en-us/features/extensions) providing helper functions to send keystrokes to the active application window. These functions may be used in Chocolatey install and uninstall scripts by declaring this package a dependency in your package's `.nuspec`.
     ]]></description>
     <dependencies>
-      <dependency id="chocolatey-usewindow.extension" version="0.0.1" />
+      <dependency id="usewindow.extension" version="0.0.1" />
     </dependencies>
   </metadata>
   <files>
