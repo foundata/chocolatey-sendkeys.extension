@@ -29,7 +29,7 @@ It is possible to import the module directly in your `PS >`, so you can try out 
 ```powershell
 # import the modules
 Import-Module "${env:ChocolateyInstall}\helpers\chocolateyInstaller.psm1"
-Import-Module "${env:ChocolateyInstall}\extensions\sendkeys.extensionsendkeys\*.psm1"
+Import-Module "${env:ChocolateyInstall}\extensions\sendkeys\*.psm1"
 
 # get a list of all functions
 Get-Command -Module 'sendkeys.extension'
