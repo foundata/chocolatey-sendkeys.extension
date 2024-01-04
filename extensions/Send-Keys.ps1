@@ -1,4 +1,13 @@
-﻿function Send-Keys {
+﻿<#
+.SYNOPSIS
+    Function file.
+
+.NOTES
+    SPDX-License-Identifier: Apache-2.0
+    SPDX-FileCopyrightText: foundata GmbH <https://foundata.com>
+#>
+
+function Send-Keys {
     <#
     .SYNOPSIS
         Sends keystrokes to the active application with optional, automatic window

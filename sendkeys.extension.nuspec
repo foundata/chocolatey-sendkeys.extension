@@ -13,9 +13,9 @@
     <projectUrl>https://github.com/foundata/chocolatey-sendkeys.extension/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/foundata/chocolatey-sendkeys.extension/main/assets/images/keyboard-outline.svg</iconUrl>
     <copyright>
-      Copyright (c) 2023 foundata GmbH (https://github.com/foundata/chocolatey-sendkeys.extension)
+      Copyright (c) 2023, 2024 foundata GmbH (https://github.com/foundata/chocolatey-sendkeys.extension)
     </copyright>
-    <licenseUrl>https://github.com/foundata/chocolatey-sendkeys.extension/blob/main/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/foundata/chocolatey-sendkeys.extension/blob/main/LICENSES/Apache-2.0.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/foundata/chocolatey-sendkeys.extension/</projectSourceUrl>
     <docsUrl>https://github.com/foundata/chocolatey-sendkeys.extension/blob/main/README.md</docsUrl>
